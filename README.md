@@ -26,6 +26,14 @@ Website: [https://fabric.io/kits/ios/crashlytics](https://fabric.io/kits/ios/cra
 | tvOS     | `binary "https://building42.github.io/Specs/Carthage/tvOS/Crashlytics.json"`<br>`binary "https://building42.github.io/Specs/Carthage/tvOS/Fabric.json"` |
 | macOS    | `binary "https://building42.github.io/Specs/Carthage/macOS/Crashlytics.json"`<br>`binary "https://building42.github.io/Specs/Carthage/macOS/Fabric.json"` |
 
+### GoogleMobileAds
+The Google Mobile Ads SDK is offered as a download for iOS. Your use of the Google Mobile Ads SDK is governed by the Google Developers Site [Terms of Service](https://developers.google.com/readme/terms).<br>
+Website: [https://developers.google.com/admob/ios/quick-start](https://developers.google.com/admob/ios/quick-start)
+
+| Platform | Lines to add to your Cartfile |
+| -------- | -------- |
+| iOS      | `binary "https://building42.github.io/Specs/Carthage/iOS/GoogleMobileAds.json"` |
+
 ## Contribute
 
 If you want to add a popular framework to this list or if you notice that one of the JSON files is outdated, feel free to drop me a [pull request](https://github.com/Building42/Specs/pulls) and I'll merge it in.
